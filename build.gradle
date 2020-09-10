@@ -16,8 +16,8 @@
 buildscript {
     ext {
         es_group = "org.elasticsearch"
-        es_version = '7.8.0'
-        opendistroVersion = '1.9.0'
+        es_version = '7.7.0'
+        opendistroVersion = '1.7.0'
     }
 
     repositories {
